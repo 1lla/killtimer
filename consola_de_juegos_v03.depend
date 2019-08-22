@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1566345217 source:c:\users\rivera\documents\ceplusplus\consola_de_juegos_v03\main.cpp
+	<iostream>
+	<cstring>
+	"include/header_consola.h"
+
+1566430254 c:\users\rivera\documents\ceplusplus\consola_de_juegos_v03\include\header_consola.h
+	<iostream>
+	<cstring>
+
+1566439905 source:c:\users\rivera\documents\ceplusplus\consola_de_juegos_v03\include\funciones_consola.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	"header_consola.h"
+	"juego.h"
+
+1566429838 source:c:\users\rivera\documents\ceplusplus\consola_de_juegos_v03\include\titulo_consola.cpp
+	<iostream>
+	<cstring>
+	<windows.h>
+	"header_consola.h"
+
+1566345145 c:\users\rivera\documents\ceplusplus\consola_de_juegos_v03\include\funciones_consola.cpp
+	<iostream>
+	<cstring>
+	"header_consola.h"
+
+1566345032 c:\users\rivera\documents\ceplusplus\consola_de_juegos_v03\include\titulo_consola.cpp
+	<iostream>
+	<cstring>
+	"header_consola.h"
+
+1566440625 source:c:\users\rivera\documents\ceplusplus\consola_de_juegos_v03\src\juego.cpp
+	<iostream>
+	<cstring>
+	"juego.h"
+	"header_consola.h"
+
+1566440599 c:\users\rivera\documents\ceplusplus\consola_de_juegos_v03\include\juego.h
+	"header_consola.h"
+
