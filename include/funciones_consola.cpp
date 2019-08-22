@@ -33,9 +33,9 @@ void start(){
             case 0:
                 caso_no(resS);
                 std::cout << "\n\t.... sigue a"<<  std::endl;
-                juego algo( std::string = "nombre del juego", int = 0, int = 0, int = 0 );
-                std::cout << algo <<  std::endl;
-
+                juego salir( std::string = "nombre del juego", int = 0, int = 0, int = 0 );
+                std::cout << salir <<  std::endl; //testeando
+                salir.game_go();        //porque no puedo llamar esta funcion?
             break;
 
             case 1:
